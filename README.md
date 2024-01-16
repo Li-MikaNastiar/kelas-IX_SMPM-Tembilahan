@@ -1,2 +1,13 @@
 # kelas-IX_SMPM-Tembilahan
-SMP Muhammadiyah Tembilahan 2023/2024 Arsip (Tidak Publik) ⚠️Ini Jangan Disebarkan⚠️
+
+| Senin                  | Mapel                                     |
+| ----------------------- | :---------------------------------------------------------- |
+| RK                     | Bahasa Indonesia                              |
+| SP                     | Ilmu Pengetahuan Alam                                  |
+| MR                     | Matematika                                                  |
+
+| Selasa                  | Mapel                                     |
+| ----------------------- | :---------------------------------------------------------- |
+| RN                     | Pendidikan Jasmani Olahraga Kesehatan                              |
+| RG                     | Bahasa Inggris                                  |
+| OL                     | Seni Budaya                                                  |
